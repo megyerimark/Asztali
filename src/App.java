@@ -1,3 +1,3 @@
 interface Allat {
-    public void halad();
+    public void legel();
 }
